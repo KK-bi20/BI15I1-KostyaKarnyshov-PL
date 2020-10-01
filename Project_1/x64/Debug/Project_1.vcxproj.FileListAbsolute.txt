@@ -1,0 +1,2 @@
+C:\Users\buffe\source\repos\Project_1\x64\Debug\Project_1.exe
+C:\Users\buffe\source\repos\Project_1\x64\Debug\Project_1.pdb
