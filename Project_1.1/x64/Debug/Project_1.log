@@ -1,3 +1,0 @@
-﻿  Project_1.cpp
-C:\Users\buffe\source\repos\Project_1\Project_1.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Project_1.vcxproj -> C:\Users\buffe\source\repos\Project_1\x64\Debug\Project_1.exe
